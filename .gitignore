@@ -1,0 +1,12 @@
+############ingonre sts settings #############
+
+##################################
+
+.settings/
+target/
+.classpath
+.project
+.springBeans
+
+
+##############
